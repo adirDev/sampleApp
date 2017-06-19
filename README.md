@@ -31,6 +31,10 @@ In order to authenticate with Instagram, once you start the server (typing: 'nod
 4. Enter your Instegram login credentials and press 'Log in' button (see sandbox test credetials bellow) 
 5. Autorize the requested permissions and than you should see on your screen 'You made it!!'
 6. Go to 'http://localhost:8000/searchTag' or 'http://localhost:8000/randomLoveTag' - see the results.  
+
+sandbox test user  
+Username: zoozjhondoe  
+Password: Aa123567
  
 ### Testing step by step
 
