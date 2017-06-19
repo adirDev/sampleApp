@@ -1,4 +1,3 @@
-var assert = require('assert');
 var chai = require('chai');
 var chaiHttp = require('chai-http');
 var should = chai.should();
