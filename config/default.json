@@ -1,0 +1,7 @@
+{
+	"app": "zoozSampleApp",
+	"version": 1.0,
+	"clientId": "bd1c71cdac664edcbcd3cbd3cb1130e6",
+  	"clientSecret": "a2774e50059a4c5b974fdcf93df79eb0",
+  	"redirectURI": "http://localhost:8000/handleauth"
+}

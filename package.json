@@ -1,0 +1,17 @@
+{
+  "name": "zoozSampleApp",
+  "dependencies":{
+    "instagram-node":"*",
+    "express":"*",
+    "request":"*"
+  },
+  "devDependencies": {
+  	"mocha": "*",
+  	"assert": "*",
+  	"chai": "*",
+  	"chai-http": "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
