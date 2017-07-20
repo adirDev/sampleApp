@@ -1,5 +1,5 @@
 # sampleApp
-sampleApp is created for 'zooz' job interview task.
+sampleApp was created for a job interview task.
 
 This is a node.js express REST API server that uses instagram API in order to fetch 'TAG' data (instegram hashtag #).  
 You have the ability to feach 'TAG' data with the following 2 ways:  
